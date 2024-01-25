@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test">
+  
+  
+  <groups>
+  
+  		
+  		
+  		
+  		<!--  MetaGroup Example -->
+  		
+  			<define name = "OvernightTestCaseGroup">
+  		<include name = "regression"/>
+  			</define>
+  		
+  		
+  		
+  		<!--  Simple Group Example as well as Regular Expression Example -->
+  		<run>
+  		
+  		
+  		<include name = "windows.*"/> <!-- This is the sanity test that we designated to only run in windows, this also includes anything else 
+  		designated with windows -->
+  		<exclude name = "sanity" />
+  		
+  		
+  		</run>
+  
+  
+  
+  
+  
+  
+  
+  </groups>
+    
+    <classes>
+      <class name="com.automation.Oct29_TestNG.Groups"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test  name="Test">
+    <classes>
+      <class name="com.java.Oct22_OOPs__Abstraction_Interface_InJava.Conclusion"/>
+      <class name="com.automation.Oct14.Enabling_Disabling_Test_Case"/>
+      <class name="com.TestNG.Sep30.Soft_Assert"/>
+      <class name="com.automation.Oct8_TestNG_Repeat.HeadlessMode_ChromeOptions"/>
+      <class name="com.TestNG.Sep30.HowtoBypassSkips"/>
+      <class name="com.TestNG.FirstProject.TestNG_Automation"/>
+      <class name="com.TestNG.Sep30.Assertion_Failures"/>
+      <class name="com.automation.Oct15_TestNG_Repeat_DataDrivenTesting.DataProvider_Rediff_SameClass"/>
+      <class name="com.automation.Oct8_TestNG_Repeat.Class_Assignment_Oct8th"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Regression_Suite.Regression_Login_Test"/>
+      <class name="com.automation.Oct22_Application_Of_OOPs_Encapsulation.Login_Test"/>
+      <class name="com.TestNG.Sep30.Register_Using_Assertions"/>
+      <class name="com.automation.Oct21_Application_Of_OOPs.RegisterTest"/>
+      <class name="com.automation.Oct8_TestNG_Repeat.Why_Not_To_IntroduceMainMethod"/>
+      <class name="com.automation.Oct14.How_To_Run_ATestCase_Even_If_Its_DependentOnAFailure"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Smoke_Suite.Smoke_Register_Test"/>
+      <class name="com.java.Oct10_OOPS_Pillar1.ApplicationsOfMethodsinAutomation1"/>
+      <class name="com.automation.Oct8_TestNG_Repeat.Class_Assigment_2"/>
+      <class name="com.TestNG.FirstProject.TestNG_Basics"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Sanity_Suite.Sanity_Search_Product"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Sanity_Suite.Sanity_Login_Test"/>
+      <class name="com.automation.Oct22_Application_Of_OOPs_Interface.AutomationCode"/>
+      <class name="com.TestNG.FirstProject.TriCombo_Annotations"/>
+      <class name="com.automation.Oct15_TestNG_Repeat_DataDrivenTesting.DataProvider_In_TheSame_Class_TestNG"/>
+      <class name="com.automation.Oct14.Assignment_2_TN"/>
+      <class name="com.automation.Oct15_TestNG_testing.xml.BatchRunning_TestCases"/>
+      <class name="com.automation.Oct15_TestNG_testing.xml.Login_Test"/>
+      <class name="com.automation.Oct15_TestNG_Repeat_DataDrivenTesting.TestCase_In_AnotherClass"/>
+      <class name="com.automation.Oct21_Application_Of_OOPs.SearchProductTest"/>
+      <class name="com.automation.Oct15_TestNG_Repeat_DataDrivenTesting.DataProvider_TN_Different_Class_Assignment"/>
+      <class name="com.TestNG.Sep30.Assertions_intestNG"/>
+      <class name="com.automation.Oct15_TestNG_Repeat_DataDrivenTesting.DataProvider_TN_SameClass_Assignment"/>
+      <class name="com.TestNG.Oct1.Test_Cases_Only"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Smoke_Suite.Smoke_Login_Test"/>
+      <class name="com.automation.Oct22_Application_Of_OOPs_Inheritance.Login_Test_Assignment"/>
+      <class name="com.TestNG.Oct1_Data_Provider.Rules_DataProvider"/>
+      <class name="com.automation.Oct21_Application_Of_OOPs.LoginTest"/>
+      <class name="com.TestNG.Oct1.DataProvider_TutorialsNinja"/>
+      <class name="com.automation.Oct15_TestNG_Repeat_DataDrivenTesting.How_To_Read_From_PropertiesFile"/>
+      <class name="com.automation.Oct8_TestNG_Repeat.TestNG_Annotations"/>
+      <class name="com.automation.Oct15_TestNG_testing.xml.Search_ProductTest"/>
+      <class name="com.automation.Oct8_TestNG_Repeat.Understanding_ChromeOptions"/>
+      <class name="com.automation.Oct14.Assertions_Basic_Concepts"/>
+      <class name="com.automation.Oct7th_ApplicationsOfMethodsInAutomation.Program_1"/>
+      <class name="com.java.Oct22_OOPs__Abstraction_Interface_InJava.Test_Execution"/>
+      <class name="com.TestNG.Sep30.Strings_Validation"/>
+      <class name="com.automation.Oct8_TestNG_Repeat.Class_Assignment_3"/>
+      <class name="com.automation.Oct15_TestNG_testing.xml.Register_Test"/>
+      <class name="com.TestNG.FirstProject.Annotations_TestNG"/>
+      <class name="com.automation.Oct14.Assertions_Assert"/>
+      <class name="com.automation.Oct29_TestNG.Groups"/>
+      <class name="com.automation.Oct14.Executing_A_TestCase_Multiple_Times"/>
+      <class name="com.TestNG.Sep30.DependenciesOnMethods"/>
+      <class name="com.automation.Oct14.Dependency_Between_TestCases"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Regression_Suite.Regression_Search_Product"/>
+      <class name="com.automation.Oct15_TestNG_Repeat_DataDrivenTesting.ExcelCode"/>
+      <class name="com.automation.Oct14.Assignment_1_RediffLogin"/>
+      <class name="com.automation.Oct15_TestNG_testing.xml.Parameterization_Using_testNG_xmlFile"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Sanity_Suite.Sanity_Register_Test"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Smoke_Suite.Smoke_Search_Product"/>
+      <class name="com.TestNG.Sep30.RunATestMultipleTimes"/>
+      <class name="com.automation.Oct15_TestNG_Repeat_DataDrivenTesting.RediffLogin_Properties"/>
+      <class name="com.automation.Oct29_TestNG_SuiteFiles_Regression_Suite.Regression_Register_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
